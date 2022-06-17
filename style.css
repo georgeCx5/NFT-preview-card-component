@@ -41,7 +41,7 @@ body {
      overflow: hidden;
      height: 275px;
      width: auto;
-     background-image: url(/images/image-equilibrium.jpg);
+     background-image: url(./images/image-equilibrium.jpg);
      background-size: cover;
      border-radius: 1em;
 }
@@ -54,7 +54,7 @@ body {
 }
 
 .NFT-layer:hover {
-     background-image: url(/images/icon-view.svg);
+     background-image: url(./images/icon-view.svg);
      background-repeat: no-repeat;
      /* background-position: center; */
      background-color: hsl(178, 100%, 50%, 0.55);
@@ -89,7 +89,7 @@ body {
 }
 
 .icon-eth {
-     background-image: url(/images/icon-ethereum.svg);
+     background-image: url(./images/icon-ethereum.svg);
      height: 20px;
 }
 
@@ -100,7 +100,7 @@ body {
 
 
 .icon-time {
-     background-image: url(/images/icon-clock.svg);
+     background-image: url(./images/icon-clock.svg);
      height: 16px;
 }
 
@@ -125,7 +125,7 @@ body {
 }
 
 .photo {
-     background-image: url(/images/image-avatar.png);
+     background-image: url(./images/image-avatar.png);
      height: 32px;
      width: 32px;
      background-size: cover;
